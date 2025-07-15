@@ -24,7 +24,7 @@ To set up the Todo List app locally, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/Bakarray/To-do_List-app
    ```
 
 2. **Navigate to the project directory**
@@ -68,9 +68,10 @@ To set up the Todo List app locally, follow these steps:
 - **Redux** — State management for predictable state handling
 - **React Router** — Navigation and routing
 - **Tailwind CSS** — Utility-first CSS framework for styling
-- **Heroicons** — Beautiful hand-crafted SVG icons
+- **Lucide-react** — React icon components
 - **IndexedDB** (via `idb`) — Client-side storage for persistence
 - **React Toastify** — Notifications and alerts
+- **Framer-motion** — Smooth component transitions
 
 ---
 
@@ -79,8 +80,7 @@ To set up the Todo List app locally, follow these steps:
 - **Add a new todo:** Fill in the title, description, and due date in the form at the top of the page.
 - **Filter todos:** Use the navigation links to view all, active, or completed todos.
 - **Search for specific todos:** Type in the search bar in the filters section.
-- **Edit or delete a todo:** Click the respective buttons on each todo item.
-- **Mark a todo as completed:** Check the checkbox next to the todo.
+- **Mark a todo as completed Edit or delete a todo:** Click the respective buttons on each todo item.
 
 ---
 
@@ -96,6 +96,7 @@ None at the moment.
 - Implement drag-and-drop functionality for reordering todos
 - Add categories or tags for better organization
 - Integrate with a backend service for cloud synchronization
+- Add AI assistant for guidance on how to complete task
 
 ---
 
