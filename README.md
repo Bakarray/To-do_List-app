@@ -71,7 +71,7 @@ To set up the Todo List app locally, follow these steps:
 - **Lucide-react** — React icon components
 - **IndexedDB** (via `idb`) — Client-side storage for persistence
 - **React Toastify** — Notifications and alerts
-- **Framer-motion** — Smooth component transitions
+- **motion** — Smooth component transitions and animations
 
 ---
 
@@ -86,7 +86,7 @@ To set up the Todo List app locally, follow these steps:
 
 ## 🐞 Known Issues
 
-None at the moment.
+- Due date not being stored to database.
 
 ---
 
